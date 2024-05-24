@@ -1,19 +1,15 @@
 {
-  "players":
-  {"ae3ae5d251fc2d03426559521dd31e8797908a16c08c9514cae3d96bb2aa00f9":
-    {
+  "players": {
+    "ae3ae5d251fc2d03426559521dd31e8797908a16c08c9514cae3d96bb2aa00f9": {
       "ExpireTime": 2147483647,
       "Tier": 2
-    },
+    }
   },
-  "clans":
-  {"710e0eae2da65760daf4dc110aa4a8447b1c1d803cca6b4c7df1925f2c168cb6":
-    {
+  "clans": {
+    "710e0eae2da65760daf4dc110aa4a8447b1c1d803cca6b4c7df1925f2c168cb6": {
       "ExpireTime": 2147483647,
       "Tier": 2
-    },
+    }
   },
-  "bannedPlayers":
-  {
-  },
+  "bannedPlayers": {}
 }
