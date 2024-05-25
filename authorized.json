@@ -11,5 +11,5 @@
       "Tier": 2
     }
   },
-  "bannedPlayers": {"ae3ae5d251fc2d03426559521dd31e8797908a16c08c9514cae3d96bb2aa00f9"}
+  "bannedPlayers": ["ae3ae5d251fc2d03426559521dd31e8797908a16c08c9514cae3d96bb2aa00f9"]
 }
