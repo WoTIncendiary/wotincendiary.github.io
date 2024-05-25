@@ -3,7 +3,7 @@
   "hitmarker": 0,
   "armorInspector": 1,
   "reloadNotifier": 1,
-  "liveHit": 2
+  "liveHit": 2,
   "fireLineAlerter": 2
   "oracle": 3
 }
